@@ -1,6 +1,6 @@
 # Messenger UI Clone
 
-Minimal Facebook Messenger UI made with Flutter
+Minimal Facebook Messenger UI made with Flutter - Dark Mode
 
 # Screenshots
 <img src="screenshots//s1.png" alt="alt text" width="100"/>
