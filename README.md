@@ -3,11 +3,8 @@
 Minimal Facebook Messenger UI made with Flutter - Dark Mode
 
 # Screenshots
-<img src="screenshots//s1.png" alt="alt text" width="100"/>
-<img src="screenshots//s2.png" alt="alt text" width="100"/>
-<img src="screenshots//s3.png" alt="alt text" width="100"/>
-<img src="screenshots//s4.png" alt="alt text" width="100"/>
-<img src="screenshots//s5.png" alt="alt text" width="100"/>
+<img src="screenshots//demo.gif" alt="Demo"/>
+
 
 ## Getting Started
 
