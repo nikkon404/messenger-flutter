@@ -128,7 +128,7 @@ class TextInputWidget extends StatelessWidget {
                   ))),
           const SizedBox(width: 5),
           const Icon(
-            Icons.favorite,
+            Icons.thumb_up,
             color: Colors.blue,
           )
         ],
